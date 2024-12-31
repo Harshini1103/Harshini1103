@@ -26,6 +26,15 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+## 💼 Soft Skills  
+
+![Communication](https://img.shields.io/badge/Communication-Blue?style=for-the-badge) 
+![Teamwork](https://img.shields.io/badge/Teamwork-Blue?style=for-the-badge) 
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Blue?style=for-the-badge)  
+![Leadership](https://img.shields.io/badge/Leadership-Blue?style=for-the-badge) 
+![Adaptability](https://img.shields.io/badge/Adaptability-Blue?style=for-the-badge) 
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-Blue?style=for-the-badge) 
+![Time Management](https://img.shields.io/badge/Time%20Management-Blue?style=for-the-badge) 
 
 ---
 
