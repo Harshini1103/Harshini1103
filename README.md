@@ -1,6 +1,6 @@
 👋 **Hey, I'm Harshini!**  
 💻 **Full Stack Developer** with a passion for frontend development.  
-🎓 **BCA Graduate** and completed a 6-month internship at WhyTap to hone my skills.  
+🎓 **BCA Graduate** and completed a 6-month internship at Why Global services to hone my skills.  
 🌐 Skilled in the **MERN Stack**, ready to contribute to the IT field with enthusiasm.  
 🎨 **Intermediate-level UI/UX Designer**, exploring creative designs in Figma.
 
