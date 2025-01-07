@@ -46,13 +46,14 @@
 
 ---
 
-### ⚡️ **Skill Visualization**  
-A creative representation of my tech skill distribution:
+## ⚡️ Skill Visualization
 
-- **Frontend Development 🟦** - The backbone of my passion for coding and user interaction.  
-- **Backend Development 🟩** - Building robust systems and APIs.  
-- **UI/UX Designing 🟨** - Designing smooth and intuitive user experiences.  
-- **Other Tech Skills 🟥** - Continuously learning new tools and technologies.
+| Skill                | Description                                      |
+|----------------------|--------------------------------------------------|
+| **Frontend Development** 🟦 | The backbone of my passion for coding and user interaction. |
+| **Backend Development** 🟩   | Building robust systems and APIs.           |
+| **UI/UX Designing** 🟨        | Designing smooth and intuitive user experiences. |
+| **Other Tech Skills** 🟥      | Continuously learning new tools and technologies. |
 
 ---
 
