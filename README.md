@@ -1,11 +1,10 @@
-## 👋 Hey, I'm Harshini!
-
-![Laptop Girl Animation](https://cdn-icons-gif.flaticon.com/17905/17905242.gif)
+## 👋 Hey, I'm Harshini! <img src="https://cdn-icons-gif.flaticon.com/17905/17905242.gif" alt="Laptop Girl" width="50" height="50" style="vertical-align: middle;">
 
 💻 **Full Stack Developer** with a passion for creating amazing frontend experiences.  
 🎓 **BCA Graduate** with 6 months of hands-on internship experience at Why Global Services.  
 🌐 **Skilled in MERN Stack**, ready to contribute to the IT field with enthusiasm.  
 🎨 **Intermediate UI/UX Designer**, exploring creativity with Figma.
+
 
 
 ---
