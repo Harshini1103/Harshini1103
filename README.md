@@ -1,4 +1,4 @@
-<h2>👋 Hey, I'm Harshini! <img src="https://cdn-icons-gif.flaticon.com/17905/17905242.gif" alt="Laptop Girl" width="50" height="50" style="vertical-align: middle; display: inline;"></h2>
+## 👋 Hey, I'm Harshini! <img src="https://cdn-icons-gif.flaticon.com/17905/17905242.gif" alt="Laptop Girl" width="50" height="50" style="vertical-align: middle;">
 
 💻 **Full Stack Developer** with a passion for creating amazing frontend experiences.  
 🎓 **BCA Graduate** with 6 months of hands-on internship experience at Why Global Services.  
