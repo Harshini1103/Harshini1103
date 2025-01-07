@@ -1,8 +1,11 @@
-👋 **Hey, I'm Harshini!**  
-💻 **Full Stack Developer** with a passion for frontend development.  
-🎓 **BCA Graduate** and completed a 6-month internship at Why Global services to hone my skills.  
-🌐 Skilled in the **MERN Stack**, ready to contribute to the IT field with enthusiasm.  
-🎨 **Intermediate-level UI/UX Designer**, exploring creative designs in Figma.
+## 👋 Hey, I'm Harshini!
+
+![Animated Intro](https://your-link-to-gif.com/animated-intro.gif)
+
+💻 Full Stack Developer with a passion for frontend development.  
+🎓 BCA Graduate and completed a 6-month internship at Why Global Services to hone my skills.  
+🌐 Skilled in the MERN Stack, ready to contribute to the IT field with enthusiasm.  
+🎨 Intermediate-level UI/UX Designer, exploring creative designs in Figma.
 
 ---
 ## ⚡️ Skills Overview  
