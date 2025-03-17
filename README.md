@@ -5,9 +5,8 @@
 🌐 **Skilled in MERN Stack**, ready to contribute to the IT field with enthusiasm.  
 🎨 **Intermediate UI/UX Designer**, exploring creativity with Figma.
 
-
-
 ---
+
 ## ⚡️ Skills Overview  
 
 ### **Tech Stack:**  
@@ -27,7 +26,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
 ## 💼 Soft Skills  
 
 ![Communication](https://img.shields.io/badge/Communication-Blue?style=for-the-badge) 
@@ -73,4 +75,7 @@
 
 ### 🎉 **Fun Fact**  
 "Designing interfaces that not only look good but work great makes me happy!"
+
+---
+
 
