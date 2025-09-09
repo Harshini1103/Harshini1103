@@ -46,7 +46,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshini&theme=radical&margin-w=10&margin-h=10&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshini&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
 </p>
 
 ---
@@ -59,9 +59,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshini/Harshini/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Harshini/Harshini/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
