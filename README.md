@@ -81,10 +81,5 @@
 
 ---
 
-## 👩‍💻 Footer Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="300px" alt="Woman Developer Animation"/>
-</p>
-
-<!-- Footer Banner -->
+<!-- Clean Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
