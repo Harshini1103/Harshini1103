@@ -1,25 +1,29 @@
-<!-- 🔥 Super Stylish GitHub Profile README for Harshini -->
+<!-- 🔥 Harshini Stylish GitHub Profile README -->
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harshini%20🚀&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+<!-- Animated Header with Role -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harshini%20👩‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
-<h3 align="center">✨ Frontend Developer | Full Stack Developer | UI/UX Enthusiast ✨</h3>
+<h3 align="center">✨ Frontend Developer @ Client Linx Software Pvt. Ltd. ✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="Coding Woman Animation"/>
+</p>
 
 ---
 
 ## 🌟 About Me
-💡 Passionate about **building beautiful web apps & UI/UX designs**  
-📚 BCA Graduate | Skilled in **React, Tailwind, Node, Express, MongoDB, MySQL**  
-🎨 Love to blend **creativity with code**  
-⚡ Exploring **MERN stack + Cloud**  
-📩 Reach me: **your.email@example.com**
+💻 **Frontend Developer at Client Linx Software Pvt. Ltd.**  
+🎓 **BCA Graduate** with hands-on industry + internship experience  
+⚡ Skilled in **MERN Stack, Next.js, TypeScript & UI/UX**  
+🎨 Love **designing & coding smooth user experiences**  
+🚀 Passionate about **turning ideas into reality**  
 
 ---
 
 ## ✨ Animated Intro
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harshini!;Frontend+Developer;Full+Stack+Developer;UI%2FUX+Designer;Turning+Ideas+Into+Reality!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harshini!;Frontend+Developer+@+Client+Linx;Full+Stack+Developer;UI%2FUX+Designer;Coding+%7C+Creativity+%7C+Innovation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +31,7 @@
 
 ## 🎨 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,figma,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,express,mongodb,mysql,python,git,github,figma,vscode&perline=7" />
 </p>
 
 ---
@@ -42,7 +46,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshini&theme=discord&margin-w=10&margin-h=10&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshini&theme=radical&margin-w=10&margin-h=10&no-frame=true&column=7" />
 </p>
 
 ---
@@ -77,12 +81,10 @@
 
 ---
 
-## 👀 Visitor Count
+## 👩‍💻 Footer Animation
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshini&style=for-the-badge&color=blueviolet" />
+  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="300px" alt="Woman Developer Animation"/>
 </p>
-
----
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
