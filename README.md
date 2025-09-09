@@ -1,78 +1,72 @@
-## 👋 Hey, I'm Harshini! <img src="https://cdn-icons-gif.flaticon.com/17905/17905242.gif" alt="Laptop Girl" width="50" height="50" style="vertical-align: middle;">
+<!-- Stylish GitHub Profile README for Harshini -->
 
-💻 **Frontend Developer at Client Linx Software Private Limited**, creating seamless web experiences.  
-🎓 **BCA Graduate** with 6 months of internship experience at Why Global Services.  
-🌐 **Skilled in MERN Stack & Next.js**, ready to contribute to the IT field with enthusiasm.  
-🎨 **Intermediate UI/UX Designer**, exploring creativity with Figma.
+<h1 align="center">Hi 👋, I'm Harshini</h1>
+<h3 align="center">🚀 Frontend Developer | Full Stack Developer | UI/UX Designer</h3>
 
 ---
 
-## ⚡️ Skills Overview  
-
-### **Tech Stack:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+## 🔥 About Me  
+- 🎓 BCA Graduate | Aspiring Software Developer  
+- 💻 Skilled in **React.js, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL**  
+- 🎨 Passionate about **UI/UX Design & Frontend Magic**  
+- 🌱 Currently building **Full Stack & E-Commerce Projects**  
+- 📫 Reach me at: **your.email@example.com**  
+- 🌐 Portfolio: [Your Portfolio Link](#)  
 
 ---
 
-## 💼 Soft Skills  
-
-![Communication](https://img.shields.io/badge/Communication-Blue?style=for-the-badge) 
-![Teamwork](https://img.shields.io/badge/Teamwork-Blue?style=for-the-badge) 
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Blue?style=for-the-badge)  
-![Leadership](https://img.shields.io/badge/Leadership-Blue?style=for-the-badge) 
-![Adaptability](https://img.shields.io/badge/Adaptability-Blue?style=for-the-badge) 
-![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-Blue?style=for-the-badge) 
-![Time Management](https://img.shields.io/badge/Time%20Management-Blue?style=for-the-badge) 
+## ✨ Typing Intro
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=36BCF7&width=435&lines=Hi%2C+I'm+Harshini!;Frontend+Developer+%7C+UI%2FUX+Designer;Full+Stack+Developer;Turning+Ideas+Into+Code!)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 **Roles I'm Interested In**  
-🖌️ **Frontend Developer**  
-🎨 **UI/UX Designer**  
-🌟 **Full Stack Developer**  
-🛠️ **Backend Developer**
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,python,git,github,figma" />
+</p>
 
 ---
 
-## ⚡️ Skill Visualization
-
-| Skill                | Description                                      |
-|----------------------|--------------------------------------------------|
-| **Frontend Development** 🟦 | The backbone of my passion for coding and user interaction. |
-| **Backend Development** 🟩   | Building robust systems and APIs.           |
-| **UI/UX Designing** 🟨        | Designing smooth and intuitive user experiences. |
-| **Other Tech Skills** 🟥      | Continuously learning new tools and technologies. |
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshini&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
 
 ---
 
-### ⚡️ **Slogan**  
-🔥💻 **"Turn Ideas into Code, Don't Waste Time!"**
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshini&theme=darkhub&margin-w=10&margin-h=10&column=7" alt="trophies"/>
+</p>
 
 ---
 
-### 🌟 Fun Facts About Me
-- 🚀 Passionate about innovative tech solutions.
-- 🎨 Love designing intuitive user interfaces.
-- 🌐 Always ready to learn and experiment with new technologies.
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Harshini/Harshini/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🎉 **Fun Fact**  
-"Designing interfaces that not only look good but work great makes me happy!"
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Harshini" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👀 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=Harshini&style=for-the-badge&color=blue)
+
+---
+
+<p align="center">
+  🚀 *"Code is like humor. When you have to explain it, it’s bad."* 💡  
+</p>
