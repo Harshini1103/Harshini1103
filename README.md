@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Harshini! <img src="https://cdn-icons-gif.flaticon.com/17905/17905242.gif" alt="Laptop Girl" width="50" height="50" style="vertical-align: middle;">
 
-💻 **Full Stack Developer** with a passion for creating amazing frontend experiences.  
-🎓 **BCA Graduate** with 6 months of hands-on internship experience at Why Global Services.  
-🌐 **Skilled in MERN Stack**, ready to contribute to the IT field with enthusiasm.  
+💻 **Frontend Developer at Client Linx Software Private Limited**, creating seamless web experiences.  
+🎓 **BCA Graduate** with 6 months of internship experience at Why Global Services.  
+🌐 **Skilled in MERN Stack & Next.js**, ready to contribute to the IT field with enthusiasm.  
 🎨 **Intermediate UI/UX Designer**, exploring creativity with Figma.
 
 ---
@@ -11,11 +11,13 @@
 
 ### **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -23,7 +25,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -75,7 +76,3 @@
 
 ### 🎉 **Fun Fact**  
 "Designing interfaces that not only look good but work great makes me happy!"
-
----
-
-
