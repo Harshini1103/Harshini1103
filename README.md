@@ -23,7 +23,7 @@
 ## ✨ Animated Intro
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harshini!;Frontend+Developer+@+Client+Linx;Full+Stack+Developer;UI%2FUX+Designer;Coding+%7C+Creativity+%7C+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harshini!;Frontend+Developer+@+Client+Linx;Full+Stack+Developer;UI%2FUX+Designer;Coding+%7C+Creativity+%7C+Innovation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,30 +31,30 @@
 
 ## 🎨 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,express,mongodb,mysql,python,git,github,figma,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,express,mongodb,mysql,python,git,github,figma,vscode&perline=8" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshini&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=79ff97" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=79ff97" height="165"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshini&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshini&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/Harshini/FlowerShop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshini&repo=FlowerShop&theme=tokyonight&hide_border=true"></a>
-  <a href="https://github.com/Harshini/SocialMediaFeed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshini&repo=SocialMediaFeed&theme=tokyonight&hide_border=true"></a>
+  <a href="https://github.com/Harshini/FlowerShop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshini&repo=FlowerShop&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=79ff97"></a>
+  <a href="https://github.com/Harshini/SocialMediaFeed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshini&repo=SocialMediaFeed&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=79ff97"></a>
 </p>
 
 ---
@@ -81,5 +81,12 @@
 
 ---
 
-<!-- Clean Footer Banner -->
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshini&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<!-- Stylish Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
