@@ -1,92 +1,51 @@
-<!-- 🔥 Harshini Stylish GitHub Profile README -->
+<!-- 🌸 Harshini's Clean GitHub Profile -->
 
-<!-- Animated Header with Role -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harshini%20👩‍💻&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-
-<h3 align="center">✨ Frontend Developer @ Client Linx Software Pvt. Ltd. ✨</h3>
+<h1 align="center">Hi 👋, I'm Harshini</h1>
+<h3 align="center">Frontend Developer @ Client Linx Software Pvt. Ltd.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="Coding Woman Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Explorer;UI%2FUX+Designer;Coding+%7C+Creativity+%7C+Innovation" alt="Typing animation" />
 </p>
 
 ---
 
-## 🌟 About Me
-💻 **Frontend Developer at Client Linx Software Pvt. Ltd.**  
-🎓 **BCA Graduate** with hands-on industry + internship experience  
-⚡ Skilled in **MERN Stack, Next.js, TypeScript & UI/UX**  
-🎨 Love **designing & coding smooth user experiences**  
-🚀 Passionate about **turning ideas into reality**  
+## 🌟 About Me  
+- 💻 Frontend Developer at **Client Linx Software Pvt. Ltd.**  
+- 🎓 BCA Graduate with **industry + internship experience**  
+- ⚡ Skilled in **MERN Stack, Next.js, TypeScript & UI/UX**  
+- 🎨 Love designing & coding smooth user experiences  
+- 🚀 Passionate about **turning ideas into reality**  
 
 ---
 
-## ✨ Animated Intro
+## 💻 Tech Stack  
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harshini!;Frontend+Developer+@+Client+Linx;Full+Stack+Developer;UI%2FUX+Designer;Coding+%7C+Creativity+%7C+Innovation" alt="Typing SVG" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,express,mongodb,mysql,git,github,figma&perline=7" />
 </p>
 
 ---
 
-## 🎨 Tech Stack
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,express,mongodb,mysql,python,git,github,figma,vscode&perline=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshini&show_icons=true&theme=tokyonight" height="165"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshini&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=79ff97" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=79ff97" height="165"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshini&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
-</p>
-
----
-
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/Harshini/FlowerShop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshini&repo=FlowerShop&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=79ff97"></a>
-  <a href="https://github.com/Harshini/SocialMediaFeed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshini&repo=SocialMediaFeed&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=79ff97"></a>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshini/Harshini/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/harshini-p-738aa02bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:harshini11122003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/Harshini" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshini&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-<!-- Stylish Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<p align="center">✨ Thanks for visiting my profile ✨</p>
