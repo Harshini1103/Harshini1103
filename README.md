@@ -41,7 +41,7 @@
   <a href="mailto:harshini11122003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/Harshini" target="_blank">
+  <a href="https://github.com/Harshini1103" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
